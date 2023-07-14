@@ -1,6 +1,4 @@
-<div align="center">
-<img alt="EvoCluster-logo" src="http://evo-ml.com/wp-content/uploads/2021/06/EvoloPy-logo.png" width=80%>
-</div>
+
 
 # EvoloPy: An open source nature-inspired optimization toolbox for global optimization in Python
 
@@ -27,7 +25,7 @@ Run
 That command above will install  `sklearn`, `NumPy`, and `SciPy` for
 you.
 
-- If you are installing EvoloPy Toolbox onto Windows, please Install Anaconda from here https://www.continuum.io/downloads, which is the leading open data science platform powered by Python.
+- If installing EvoloPy Toolbox onto Windows, please Install Anaconda from here: https://www.continuum.io/downloads, the leading open data science platform powered by Python.
 - If you are installing onto Ubuntu or Debian and using Python 3 then
   this will pull in all the dependencies from the repositories:
   
