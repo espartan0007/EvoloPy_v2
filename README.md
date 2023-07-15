@@ -1,6 +1,4 @@
-<div align="center">
-<img alt="EvoCluster-logo" src="http://evo-ml.com/wp-content/uploads/2021/06/EvoloPy-logo.png" width=80%>
-</div>
+
 
 # EvoloPy: An open source nature-inspired optimization toolbox for global optimization in Python
 
