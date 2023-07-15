@@ -1,6 +1,8 @@
+<div align="center">
+<img alt="EvoCluster-logo" src="http://evo-ml.com/wp-content/uploads/2021/06/EvoloPy-logo.png" width=80%>
+</div>
 
-
-# EvoloPy v2: An open source nature-inspired optimization toolbox for global optimization in Python
+# EvoloPy: An open source nature-inspired optimization toolbox for global optimization in Python
 
 The EvoloPy toolbox provides classical and recent nature-inspired metaheuristic for the global optimization. The list of optimizers that have been implemented includes Particle Swarm Optimization (PSO), Multi-Verse Optimizer (MVO), Grey Wolf Optimizer (GWO), and Moth Flame Optimization (MFO). The full list of implemented optimizers is available here https://github.com/7ossam81/EvoloPy/wiki/List-of-optimizers
 
@@ -25,7 +27,7 @@ Run
 That command above will install  `sklearn`, `NumPy`, and `SciPy` for
 you.
 
-- If installing EvoloPy Toolbox onto Windows, please Install Anaconda from here: https://www.continuum.io/downloads, the leading open data science platform powered by Python.
+- If you are installing EvoloPy Toolbox onto Windows, please Install Anaconda from here https://www.continuum.io/downloads, which is the leading open data science platform powered by Python.
 - If you are installing onto Ubuntu or Debian and using Python 3 then
   this will pull in all the dependencies from the repositories:
   
